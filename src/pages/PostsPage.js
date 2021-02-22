@@ -1,4 +1,4 @@
-import { render } from '@testing-library/react'
+
 import React, { useEffect } from 'react'
 import {connect} from 'react-redux'
 // Bring in the asynchronous fetchPosts action
